@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58ff3040.css",
+    "main.js": "/static/js/main.714adff6.js",
+    "static/media/login-bg.png": "/static/media/login-bg.b4f8568a4476fabe29ef.png",
+    "static/media/404.png": "/static/media/404.f4455ba7c3898c549038.png",
+    "static/media/logo.svg": "/static/media/logo.a0702e3c9d1ea46cb152453bb099c2e4.svg",
+    "static/media/mini-logo.svg": "/static/media/mini-logo.0e8ef37107de34a789983140d3140dac.svg",
+    "static/media/logo-text.svg": "/static/media/logo-text.579b55235f3af49bc25dbae349869681.svg",
+    "static/media/logs.svg": "/static/media/logs.18d4108200422dbac7b21934a36a873f.svg",
+    "static/media/telegram.svg": "/static/media/telegram.ffe34c2d4eafc006412f7fe87da554e1.svg",
+    "static/media/keylogger.svg": "/static/media/keylogger.2d0010d90d5b2108f5890783b2b220bb.svg",
+    "static/media/usb-driver.svg": "/static/media/usb-driver.eb302f4b06fe9c0a4e97e8df9847fe86.svg",
+    "static/media/session.svg": "/static/media/session.8cb98ab7f4272793d6cda91ce18e95ba.svg",
+    "static/media/usb.svg": "/static/media/usb.9b0c05dbe3481b5e80fdf2f30227427f.svg",
+    "static/media/audio.svg": "/static/media/audio.d5202c5468ba2501fba02d98c1888bdd.svg",
+    "static/media/wifi.svg": "/static/media/wifi.b3ba2550d719ae33ff42ddb2760e8954.svg",
+    "static/media/decrease-line.svg": "/static/media/decrease-line.9a4d74360efa72f1db2a91e5535d869a.svg",
+    "index.html": "/index.html",
+    "static/media/printer.svg": "/static/media/printer.8f947bea3dd3dd3349e40485a74fbbbe.svg",
+    "static/media/polygon.svg": "/static/media/polygon.5d2b8d9bfc54b1637076c701bbd1170d.svg",
+    "static/media/screenshot.svg": "/static/media/screenshot.631c02cdc5597dffcad5e2b4d810ef45.svg",
+    "static/media/remote.svg": "/static/media/remote.59f2dc29d53bf3eb4a15966576752156.svg",
+    "static/media/buffer.svg": "/static/media/buffer.a412e73e9542cacfa64839c50b75ecf4.svg",
+    "static/media/decrease-cursor.svg": "/static/media/decrease-cursor.c82337fe100f681f9fb8622e947355a6.svg",
+    "main.58ff3040.css.map": "/static/css/main.58ff3040.css.map",
+    "main.714adff6.js.map": "/static/js/main.714adff6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ff3040.css",
+    "static/js/main.714adff6.js"
+  ]
+}
