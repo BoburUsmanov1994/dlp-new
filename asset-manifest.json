@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.58ff3040.css",
-    "main.js": "/static/js/main.c01d7a63.js",
+    "main.css": "/static/css/main.2b0999bc.css",
+    "main.js": "/static/js/main.3294a059.js",
     "static/media/login-bg.png": "/static/media/login-bg.b4f8568a4476fabe29ef.png",
+    "static/media/403.png": "/static/media/403.2cbe6806e527e457863a.png",
     "static/media/3819287.jpg": "/static/media/3819287.6fdf69e3f1f84b7e1e6f.jpg",
     "static/media/404.png": "/static/media/404.f4455ba7c3898c549038.png",
     "static/media/logo.svg": "/static/media/logo.a0702e3c9d1ea46cb152453bb099c2e4.svg",
     "static/media/mini-logo.svg": "/static/media/mini-logo.0e8ef37107de34a789983140d3140dac.svg",
     "static/media/logo-text.svg": "/static/media/logo-text.579b55235f3af49bc25dbae349869681.svg",
     "static/media/logs.svg": "/static/media/logs.18d4108200422dbac7b21934a36a873f.svg",
+    "static/media/shield.svg": "/static/media/shield.d4b5ba00936eb6058665195e90e3fbb1.svg",
     "static/media/telegram.svg": "/static/media/telegram.ffe34c2d4eafc006412f7fe87da554e1.svg",
     "static/media/keylogger.svg": "/static/media/keylogger.2d0010d90d5b2108f5890783b2b220bb.svg",
     "static/media/usb-driver.svg": "/static/media/usb-driver.eb302f4b06fe9c0a4e97e8df9847fe86.svg",
@@ -24,11 +26,11 @@
     "static/media/remote.svg": "/static/media/remote.59f2dc29d53bf3eb4a15966576752156.svg",
     "static/media/buffer.svg": "/static/media/buffer.a412e73e9542cacfa64839c50b75ecf4.svg",
     "static/media/decrease-cursor.svg": "/static/media/decrease-cursor.c82337fe100f681f9fb8622e947355a6.svg",
-    "main.58ff3040.css.map": "/static/css/main.58ff3040.css.map",
-    "main.c01d7a63.js.map": "/static/js/main.c01d7a63.js.map"
+    "main.2b0999bc.css.map": "/static/css/main.2b0999bc.css.map",
+    "main.3294a059.js.map": "/static/js/main.3294a059.js.map"
   },
   "entrypoints": [
-    "static/css/main.58ff3040.css",
-    "static/js/main.c01d7a63.js"
+    "static/css/main.2b0999bc.css",
+    "static/js/main.3294a059.js"
   ]
 }
